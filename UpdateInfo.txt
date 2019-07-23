@@ -1,0 +1,11 @@
+                                                        Current update logs:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+UPDATE #01:
+
+* Changed Level 4 skills from requiring 500 book pages to level down to 60 pages.
+* Added 'Level4Exp' to globals for easy changing of the required pages to level skill.
+
+Thanks to Lomcn User Lionsm!ght for his help in getting this to work.
+
+

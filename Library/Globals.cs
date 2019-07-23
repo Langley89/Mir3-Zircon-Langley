@@ -82,7 +82,7 @@ namespace Library
             MarketPlaceFee = 1000,
             AccessoryLevelCost = 1000,
             AccessoryResetCost = 1000000,
-
+            Level4Exp = 60,
             CraftWeaponPercentCost = 1000000,
 
             CommonCraftWeaponPercentCost = 30000000,

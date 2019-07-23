@@ -2445,7 +2445,7 @@ namespace Client.Scenes
                         text = $"{magic.Experience}/{magic.Info.Experience3}";
                         break;
                     default:
-                        text = $"{magic.Experience}/{(magic.Level - 2) * 90}";
+                        text = $"{magic.Experience}/{(magic.Level - 2) * Globals.Level4Exp}";
                         break;
                 }
 
